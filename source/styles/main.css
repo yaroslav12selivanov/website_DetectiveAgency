@@ -8,6 +8,8 @@
 @import url("./components/Header/header.css");
 @import url("./components/TitleSection/title_section.css");
 @import url("./components/WhoWe/who_we.css");
+@import url("./components/Services/services.css");
+@import url("./components/HowWe/how_we.css");
 
 * {
     font-family: "Gilroy";
